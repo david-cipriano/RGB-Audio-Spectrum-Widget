@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "License": "MIT",
+        "Authors": [
+            {
+                "Name": "DAC"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Plasma 6 Widget",
+        "Icon": "kwave",
+        "Id": "org.kde.rbg-audio-spectrum",
+        "Name": "RGB Audio Spectrum",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
